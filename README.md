@@ -51,6 +51,7 @@ Biological age is often a more accurate indicator of an individual's health and 
   - **Age Gap Distribution:** Histogram showing the difference between predicted and actual ages.
 
 ## Repository Structure
+```
 ├── README.md
 ├── data
 │   ├── demographics
@@ -99,6 +100,7 @@ Biological age is often a more accurate indicator of an individual's health and 
     ├── train_stacked.py
     ├── train_xgboost.py
     └── visualize_results_stacked.py
+```
 
 ## How to Run
 1. **Clone the repository:**
