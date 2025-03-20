@@ -45,10 +45,25 @@ Biological age is often a more accurate indicator of an individual's health and 
 - **Performance Metrics:**
   - **Mean Absolute Error (MAE):** ~3.3 years
   - **R² Score:** ~0.95–0.97
-- **Visualizations:**
+  - 
+## Visualizations
   - **Scatter Plot:** True Age vs. Predicted Age.
   - **Feature Importance:** Top biomarkers influencing the prediction.
   - **Age Gap Distribution:** Histogram showing the difference between predicted and actual ages.
+  - 
+### 1. Scatter Plot: True Age vs. Predicted Age
+This plot compares the true chronological ages with the predicted ages from the stacked model. The red diagonal line represents perfect predictions.
+![Scatter Plot](reports/visualization_1_scatter_v2.png)
+
+### 2. Feature Importance
+This bar chart displays the top 10 most important features (biomarkers) used by the XGBoost model to predict biological age.
+![Feature Importance](reports/visualization_2_feature_importance_v2.png)
+
+### 3. Age Gap Distribution
+This histogram shows the distribution of the difference between predicted age and true age (Age Gap), indicating the model’s bias toward age acceleration or deceleration.
+![Age Gap Distribution](reports/visualization_3_age_gap_v2.png)
+
+
 
 ## Repository Structure
 ```
