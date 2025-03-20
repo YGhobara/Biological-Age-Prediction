@@ -43,7 +43,7 @@ Biological age is often a more accurate indicator of an individual's health and 
 ## Results
 - **Best Model:** Stacked Model (RF + XGBoost)
 - **Performance Metrics:**
-  - **Mean Absolute Error (MAE):** ~3.3 years
+  - **Mean Absolute Error (MAE):** ~3 years
   - **R² Score:** ~0.95–0.97
   - 
 ## Visualizations
