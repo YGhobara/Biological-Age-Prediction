@@ -52,24 +52,26 @@ Biological age is often a more accurate indicator of an individual's health and 
 
 ## Repository Structure
 ```
-├── README.md
+.
+├── LICENSE.txt
+├── README.md  
 ├── data
-│   ├── demographics
-│   │   └── DEMO_J.xpt
-│   ├── examination
-│   │   ├── BMX_J.xpt
-│   │   ├── BPX_J.xpt
-│   │   └── LUX_J.xpt
-│   ├── laboratory
+│   ├── demographics    
+│   │   └── DEMO_J.xpt  
+│   ├── examination     
+│   │   ├── BMX_J.xpt   
+│   │   ├── BPX_J.xpt   
+│   │   └── LUX_J.xpt   
+│   ├── laboratory      
 │   │   ├── ALB_CR_J.xpt
 │   │   ├── BIOPRO_J.xpt
-│   │   ├── CBC_J.xpt
-│   │   ├── GHB_J.xpt
-│   │   ├── GLU_J.xpt
-│   │   ├── HDL_J.xpt
-│   │   ├── HSCRP_J.xpt
-│   │   ├── INS_J.xpt
-│   │   ├── TCHOL_J.xpt
+│   │   ├── CBC_J.xpt   
+│   │   ├── GHB_J.xpt   
+│   │   ├── GLU_J.xpt   
+│   │   ├── HDL_J.xpt   
+│   │   ├── HSCRP_J.xpt 
+│   │   ├── INS_J.xpt   
+│   │   ├── TCHOL_J.xpt 
 │   │   └── TRIGLY_J.xpt
 │   └── questionnaire
 │       ├── ALQ_J.xpt
@@ -87,12 +89,10 @@ Biological age is often a more accurate indicator of an individual's health and 
 │   ├── dataset_summary.xlsx
 │   ├── final_dataset.csv
 │   ├── missing_values.csv
-│   ├── visualization_1_scatter.png
 │   ├── visualization_1_scatter_v2.png
-│   ├── visualization_2_feature_importance.png
 │   ├── visualization_2_feature_importance_v2.png
-│   ├── visualization_3_age_gap.png
 │   └── visualization_3_age_gap_v2.png
+├── requirements.txt
 └── src
     ├── check_model_validity.py
     ├── data_preprocessing.py
