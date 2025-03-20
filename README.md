@@ -24,9 +24,9 @@ Biological age is often a more accurate indicator of an individual's health and 
     - TCHOL_J.xpt: Total cholesterol levels.
     - TRIGLY_J.xpt: Triglyceride levels.
   - **Questionnaire:**
-    ALQ_J.xpt: Alcohol consumption questionnaire responses.
-    PAQ_J.xpt: Physical activity questionnaire responses.
-    SMQ_J.xpt: Smoking behavior questionnaire responses.
+    - ALQ_J.xpt: Alcohol consumption questionnaire responses.
+    - PAQ_J.xpt: Physical activity questionnaire responses.
+    - SMQ_J.xpt: Smoking behavior questionnaire responses.
 - **Preprocessing:**
   - Missing values are imputed (using medians for numerical features).
   - Features with excessive missing values are dropped (>80%)
