@@ -7,7 +7,7 @@ Biological age is often a more accurate indicator of an individual's health and 
 - **Source:** [NHANES](https://www.cdc.gov/nchs/nhanes/index.html)
 - **Key Features:**
   - **Demographics:**
-    DEMO_J.xpt: Demographic information.
+    DEMO_J.xpt
   - **Examination:**
     - BMX_J.xpt: Body measurements (e.g., weight, height, BMI).
     - BPX_J.xpt: Blood pressure readings.
