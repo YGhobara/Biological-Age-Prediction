@@ -53,6 +53,7 @@ Biological age is often a more accurate indicator of an individual's health and 
   - 
 ### 1. Scatter Plot: True Age vs. Predicted Age
 This plot compares the true chronological ages with the predicted ages from the stacked model. The red diagonal line represents perfect predictions.
+
 ![Scatter Plot](reports/visualization_1_scatter_v2.png)
 
 ### 2. Feature Importance
