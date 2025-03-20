@@ -62,7 +62,7 @@ This bar chart displays the top 10 most important features (biomarkers) used by 
 ![Feature Importance](reports/visualization_2_feature_importance_v2.png)
 
 ### 3. Age Gap Distribution
-This histogram shows the distribution of the difference between predicted age and true age (Age Gap), indicating the model’s bias toward age acceleration or deceleration.
+This histogram shows the distribution of the difference between predicted age and true age (Age Gap), indicating the model’s bias toward age acceleration or deceleration. We notice that the model slightly predicts acceleration more than decelaration on average.
 
 ![Age Gap Distribution](reports/visualization_3_age_gap_v2.png)
 
