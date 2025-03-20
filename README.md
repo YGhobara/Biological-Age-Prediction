@@ -50,7 +50,7 @@ Biological age is often a more accurate indicator of an individual's health and 
   - **Scatter Plot:** True Age vs. Predicted Age.
   - **Feature Importance:** Top biomarkers influencing the prediction.
   - **Age Gap Distribution:** Histogram showing the difference between predicted and actual ages.
-  - 
+
 ### 1. Scatter Plot: True Age vs. Predicted Age
 This plot compares the true chronological ages with the predicted ages from the stacked model. The red diagonal line represents perfect predictions.
 
