@@ -19,7 +19,7 @@ Biological age is often a more accurate indicator of an individual's health and 
     - GHB_J.xpt: Glycohemoglobin levels.
     - GLU_J.xpt: Blood glucose levels.
     - HDL_J.xpt: High-density lipoprotein (HDL) cholesterol levels.
-    - HSCRP_J.xpt: High-sensitivity C-reactive protein (hs-CRP) levels, an inflammatory marker.
+    - HSCRP_J.xpt: High-sensitivity C-reactive protein levels, an inflammatory marker.
     - INS_J.xpt: Insulin levels.
     - TCHOL_J.xpt: Total cholesterol levels.
     - TRIGLY_J.xpt: Triglyceride levels.
