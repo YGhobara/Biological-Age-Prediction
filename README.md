@@ -150,6 +150,6 @@ pip install -r requirements.txt
 
 ## License
 
-This project is licensed under the MIT License with Commons Clause. This means that while you are free to use, modify, and distribute the software, commercial use (selling the software or products derived substantially from its functionality) is not permitted without further permission.
+This project is licensed under the MIT License with Commons Clause. This means that while you are free to use, modify, and distribute the software, commercial use (selling the software or products derived substantially from its functionality) **is not permitted** without further permission.
 
 For full details, please see the [LICENSE](LICENSE.txt) file.
