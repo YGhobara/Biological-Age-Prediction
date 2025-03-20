@@ -6,8 +6,27 @@ Biological age is often a more accurate indicator of an individual's health and 
 ## Dataset
 - **Source:** [NHANES](https://www.cdc.gov/nchs/nhanes/index.html)
 - **Key Features:**
-  - **Biomarkers:** Cholesterol levels, Blood Pressure, Blood Sugar, etc.
-  - **Lifestyle Factors:** Physical Activity, Smoking, Alcohol Consumption.
+  - **Demographics:**
+    DEMO_J.xpt: Demographic information.
+  - **Examination:**
+    BMX_J.xpt: Body measurements (e.g., weight, height, BMI).
+    BPX_J.xpt: Blood pressure readings.
+    LUX_J.xpt: Liver ultrasound measurements.
+  - **Laboratory:**
+    ALB_CR_J.xpt: Albumin and creatinine levels.
+    BIOPRO_J.xpt: General biochemistry test results.
+    CBC_J.xpt: Complete blood count results (e.g., red and white blood cells, hemoglobin).
+    GHB_J.xpt: Glycohemoglobin levels.
+    GLU_J.xpt: Blood glucose levels.
+    HDL_J.xpt: High-density lipoprotein (HDL) cholesterol levels.
+    HSCRP_J.xpt: High-sensitivity C-reactive protein (hs-CRP) levels, an inflammatory marker.
+    INS_J.xpt: Insulin levels.
+    TCHOL_J.xpt: Total cholesterol levels.
+    TRIGLY_J.xpt: Triglyceride levels.
+  - **Questionnaire:**
+    ALQ_J.xpt: Alcohol consumption questionnaire responses.
+    PAQ_J.xpt: Physical activity questionnaire responses.
+    SMQ_J.xpt: Smoking behavior questionnaire responses.
 - **Preprocessing:**
   - Missing values are imputed (using medians for numerical features).
   - Features with excessive missing values are dropped.
