@@ -104,14 +104,14 @@ Biological age is often a more accurate indicator of an individual's health and 
 
 ## How to Run
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/YGhobara/Biological-Age-Prediction.git
-   cd Biological-Age-Prediction
-   ```
+```sh
+git clone https://github.com/YGhobara/Biological-Age-Prediction.git
+cd Biological-Age-Prediction
+```
 2. **Install dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
+```sh
+pip install -r requirements.txt
+```
 3. **Data preprocessing:**
   - Run the preprocessing python program
    ```sh
