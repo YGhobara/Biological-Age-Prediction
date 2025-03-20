@@ -1,7 +1,7 @@
 # AI-Based Biological Age Prediction using Biomarkers
 
 ## Overview
-Biological age is often a more accurate indicator of an individual's health and aging process than chronological age. This project utilizes machine learning to predict biological age based on various biomarkers and lifestyle factors using data from the National Health and Nutrition Examination Survey (NHANES).
+Biological age is often a more accurate indicator of an individual's health and aging process than chronological age. This project utilizes machine learning to predict biological age based on various biomarkers and lifestyle factors using data (~9200 entries) from the National Health and Nutrition Examination Survey (NHANES).
 
 ## Dataset
 - **Source:** [NHANES](https://www.cdc.gov/nchs/nhanes/index.html)
