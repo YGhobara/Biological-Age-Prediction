@@ -58,10 +58,12 @@ This plot compares the true chronological ages with the predicted ages from the 
 
 ### 2. Feature Importance
 This bar chart displays the top 10 most important features (biomarkers) used by the XGBoost model to predict biological age.
+
 ![Feature Importance](reports/visualization_2_feature_importance_v2.png)
 
 ### 3. Age Gap Distribution
 This histogram shows the distribution of the difference between predicted age and true age (Age Gap), indicating the model’s bias toward age acceleration or deceleration.
+
 ![Age Gap Distribution](reports/visualization_3_age_gap_v2.png)
 
 
